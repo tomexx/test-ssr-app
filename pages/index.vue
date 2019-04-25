@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        test ssr app
+        test ssr app test
       </h1>
     </div>
   </section>
